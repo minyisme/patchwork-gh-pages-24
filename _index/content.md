@@ -1,28 +1,11 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://www.facebook.com/photo.php?fbid=10105228948606883&l=b3aff31218"
+name: "Maggie Yang"
+title: "Software Engineer"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Maggie is a newly minted Software Engineer who was a Program Manager in her previous life.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Her accomplishments include building her first web app, [Fare Share](https://github.com/minyisme/fare-share) at [Hackbright Academy](https://hackbrightacademy.com/). Previously as a Program Manager at [Visa, Inc](https://usa.visa.com/), she managed three Compliance and Fraud related programs serving 14,000 SMB and ENT clients.
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
-
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
-
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+Maggie is available for full time positions.
